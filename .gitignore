@@ -1,0 +1,7 @@
+node_modules
+dist
+.*
+!/.gitignore
+!/.babelrc
+**/.DS_Store
+.cache
