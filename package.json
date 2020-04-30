@@ -19,6 +19,7 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
+    "autoprefixer": "^9.7.6",
     "parcel-plugin-imagemin": "^4.0.1",
     "parcel-plugin-svg-sprite": "^1.4.1"
   }

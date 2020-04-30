@@ -2,6 +2,7 @@ node_modules
 dist
 .*
 !/.gitignore
+!/.postcssrc
 !/.babelrc
 **/.DS_Store
 .cache
